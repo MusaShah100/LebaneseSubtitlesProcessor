@@ -1,4 +1,4 @@
-# 🇱🇧 Lebanese Subtitles Processor
+<img width="1417" height="479" alt="{0E439FE7-D05B-438E-AC63-1579D36F65A6}" src="https://github.com/user-attachments/assets/6057a4c9-3de2-44b4-9ee3-caa87116d3b5" /># 🇱🇧 Lebanese Subtitles Processor
 
 ## 📌 Overview
 
@@ -128,7 +128,10 @@ Contains standalone lines with no conversational reply.
 
 ## 📄 License
 
-This project is open-source and available for anyone to use and modify.
+This project is licensed under the [MIT License](LICENSE).
+
+If you use this project, **you must provide attribution** by stating:
+> "This project is based on code created by Moosa Ali – [https://github.com/MusaShah100/LebaneseSubtitlesProcessor]".
 
 ---
 
